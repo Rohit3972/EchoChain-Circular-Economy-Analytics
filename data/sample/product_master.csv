@@ -1,0 +1,21 @@
+sku_id,product_model,brand,category,original_price,launch_year
+SKU-LEN-001,ThinkPad T14 Gen 3,Lenovo,Laptop,85000,2023
+SKU-DEL-002,Latitude 5420,Dell,Laptop,78000,2022
+SKU-HP-003,EliteBook 840 G8,HP,Laptop,82000,2022
+SKU-APP-004,MacBook Air M1,Apple,Laptop,99900,2020
+SKU-ASU-005,VivoBook 15,ASUS,Laptop,62000,2023
+SKU-LEN-006,IdeaPad Slim 5,Lenovo,Laptop,68000,2023
+SKU-DEL-007,Inspiron 15 5510,Dell,Laptop,65000,2021
+SKU-HP-008,Pavilion 14,HP,Laptop,58000,2022
+SKU-APP-009,MacBook Pro M1,Apple,Laptop,129900,2020
+SKU-ASU-010,ROG Strix G15,ASUS,Laptop,95000,2021
+SKU-LEN-011,ThinkPad E14,Lenovo,Laptop,72000,2022
+SKU-DEL-012,Vostro 3510,Dell,Laptop,60000,2022
+SKU-HP-013,ProBook 450 G8,HP,Laptop,67000,2021
+SKU-APP-014,MacBook Air M2,Apple,Laptop,114900,2022
+SKU-ASU-015,TUF Gaming F15,ASUS,Laptop,82000,2022
+SKU-LEN-016,ThinkBook 15,Lenovo,Laptop,64000,2022
+SKU-DEL-017,Latitude 3520,Dell,Laptop,62000,2021
+SKU-HP-018,Victus 16,HP,Laptop,75000,2022
+SKU-APP-019,MacBook Pro M2,Apple,Laptop,149900,2022
+SKU-ASU-020,ZenBook 14,ASUS,Laptop,88000,2022

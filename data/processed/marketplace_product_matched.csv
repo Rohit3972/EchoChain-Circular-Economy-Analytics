@@ -1,0 +1,11 @@
+listing_id,listing_title,sku_id,product_model,brand,category,original_price,listed_price,condition,listing_date,marketplace,match_status
+LST-0001,Lenovo ThinkPad T14 Gen 3 i5 16GB,SKU-LEN-001,ThinkPad T14 Gen 3,Lenovo,Laptop,85000,52000,Used - Good,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0002,Dell Latitude 5420 Business Laptop,SKU-DEL-002,Latitude 5420,Dell,Laptop,78000,45500,Used - Excellent,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0003,HP EliteBook 840 G8 Laptop,SKU-HP-003,EliteBook 840 G8,HP,Laptop,82000,48000,Used - Good,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0004,Apple MacBook Air M1 8GB,SKU-APP-004,MacBook Air M1,Apple,Laptop,99900,58000,Used - Excellent,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0005,ASUS VivoBook 15 i5 Laptop,SKU-ASU-005,VivoBook 15,ASUS,Laptop,62000,38500,Used - Good,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0006,Lenovo IdeaPad Slim 5 Ryzen,SKU-LEN-006,IdeaPad Slim 5,Lenovo,Laptop,68000,42000,Used - Fair,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0007,Dell Inspiron 15 5510 i5,SKU-DEL-007,Inspiron 15 5510,Dell,Laptop,65000,36000,Used - Good,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0008,HP Pavilion 14 i5 16GB,SKU-HP-008,Pavilion 14,HP,Laptop,58000,34500,Used - Good,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0009,Apple MacBook Pro M1 13 inch,SKU-APP-009,MacBook Pro M1,Apple,Laptop,129900,72000,Used - Excellent,2026-09-04,EchoChain Mock Marketplace,Matched
+LST-0010,ASUS ROG Strix G15 Gaming Laptop,SKU-ASU-010,ROG Strix G15,ASUS,Laptop,95000,68000,Used - Good,2026-09-04,EchoChain Mock Marketplace,Matched
